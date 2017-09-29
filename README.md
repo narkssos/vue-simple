@@ -28,3 +28,5 @@ npm run dev
 ``` bash
 npm run build
 ```
+
+### 6. 컴포넌트용 Vue 파일들은 "src/components" 에 위치해 있습니다
