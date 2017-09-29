@@ -4,7 +4,7 @@
 
 ## 환경설정
 
-###1. NodeJS 설치
+### 1. NodeJS 설치
 https://nodejs.org/en/download/ 에 방문하여 운영체제에 맞는 버전을 설치
 
 
